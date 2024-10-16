@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "model": "HR-V",
+        "brand": "Honda",
+        "image": "https://autos.honda.com.ar/uploads/modelos/28/images/sliders/DISE%C3%91O%20EXTERIOR.jpg"
+    },
+    {
+        "id": 2,
+        "model": "Civic",
+        "brand": "Honda",
+        "image": "https://fotos.perfil.com/2022/12/28/trim/876/492/honda-civic-e-hev-1481115.jpg"
+    },
+    {
+        "id": 3,
+        "model": "BR-V",
+        "brand": "Honda",
+        "image": "https://autoportal.com/cdn/img/new-cars-gallery/honda/br-v/colors/744c642a5e5cd43a538e8ba4dfbcf815.jpg"
+    },
+    {
+        "id": 4,
+        "model": "Pilot",
+        "brand": "Honda",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVAKZUKiujWGSxsS9-BNCXD90BZBAzgM1Tg&s.jpg"
+    },
+    {
+        "id": 5,
+        "model": "Prologue",
+        "brand": "Honda",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/2024-honda-prologue-458-edit-667191deda274.jpg?crop=0.652xw:0.732xh;0.0976xw,0.219xh&resize=768:*.jpg"
+    },
+    {
+        "id": 6,
+        "model": "Passport",
+        "brand": "Honda",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYbzTYtXTc4n40xbGe43HMrPksTkmtyzVQw&s.jpg"
+    },
+    {
+        "id": 7,
+        "model": "Accord",
+        "brand": "Honda",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-t_RLHPpDUkS7kSodoqrGkQH9jFlztwNjA&s.jpg"
+    },
+    {
+        "id": 8,
+        "model": "Odyssey",
+        "brand": "Honda",
+        "image": "https://d31sro4iz4ob5n.cloudfront.net/upload/car/odyssey-2021/color/lhd-platinum-white-pearl/1.png?v=175751432"
+    },
+    {
+        "id": 9,
+        "model": "Honda",
+        "brand": "Ridgeline",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZJsBxoM5GQc-VX-770QcDewLlptOVEZoHA&s.jpg"
+    },
+    {
+        "id": 10,
+        "model": "Civic Type R",
+        "brand": "Honda",
+        "image": "https://www.autonocion.com/wp-content/uploads/2024/05/Honda-Civic-Type-R-MUGEN-0.jpg"
+    },
+    {
+        "id": 11,
+        "model": "Territory",
+        "brand": "Ford",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3Kf_eOhlml-rZ6TUR-qw5bDUy-_7AzGS7g&s.jpg"
+    },
+    {
+        "id": 12,
+        "model": "Bronco",
+        "brand": "Ford",
+        "image": "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/nameplate/bronco-sport/prelaunch/modelos/far-bronco-sport-badland.jpg"
+    },
+    {
+        "id": 13,
+        "model": "Kuga",
+        "brand": "Ford",
+        "image": "https://cdn.motor1.com/images/mgl/KAvvN/s3/wcf-ford-vignale-ford-kuga-vignale-concept1.jpg"
+    },
+    {
+        "id": 14,
+        "model": "Maverick",
+        "brand": "Ford",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIKkwyYZhtmSJdm0qXi6TFHQs2zE5BUkxKog&s.jpg"
+    },
+    {
+        "id": 15,
+        "model": "Ranger Raptor",
+        "brand": "Ford",
+        "image": "https://www.forcor.com.ar/wp-content/uploads/2021/05/rraptor-gris.jpg"
+    },
+    {
+        "id": 16,
+        "model": "Raptor",
+        "brand": "Ford",
+        "image": "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/nameplate/Nueva-ranger/2023/models/limited-plus/colorizer/azul-belice/far-nueva-ranger-color-limited-plus-azul-belice.jpg.dam.full.high.jpg/1687455676127.jpg"
+    },
+    {
+        "id": 17,
+        "model": "Mustang",
+        "brand": "Ford",
+        "image": "https://www.romacarabs.com/wp-content/uploads/2020/07/ford-mustang-fastback.jpg"
+    },
+    {
+        "id": 18,
+        "model": "Mustang GTD",
+        "brand": "Ford",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXH7IbMkh0SkdKRozTrqsmU10JTLutGi3YzA&s.jpg"
+    },
+    {
+        "id": 19,
+        "model": "Mach E",
+        "brand": "Ford",
+        "image": "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/nameplate/mustang-mach-e/colorizer/gris-mercurio/far-mustang-mach-e-colorizer-gris-mercurio.jpg.dam.full.high.jpg/1698432450426.jpg"
+    },
+    {
+        "id": 20,
+        "model": "Cayman 718 S",
+        "brand": "Porsche ",
+        "image": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_1806be7511e54a879e5948c53651f572.jpg"
+    },
+    {
+        "id": 21,
+        "model": "Cayman 718 gt4 rs",
+        "brand": "Porsche",
+        "image": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_6e273fcc906641618c9cdf5ecc8c0d5c.jpg"
+    },
+    {
+        "id": 22,
+        "model": "911 Carrera GTS",
+        "brand": "Porsche",
+        "image": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/m/RT_V_655b66b7b2814ee9a866a1692313f7f1.jpg"
+    },
+    {
+        "id": 23,
+        "model": "911 Trubo S",
+        "brand": "Porsche",
+        "image": "https://configurator.porsche.com/model/2025/992450/common/detail_PP81_m_0.jpg?h=4ccefae0b202d92cfb8e8f4f5706b3c7.jpg"
+    },
+    {
+        "id": 24,
+        "model": "911 GT3 RS",
+        "brand": "Porsche",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTECDFJst40EjABihMIDm--w2NEugpbAsmhGA&s.jpg"
+    },
+    {
+        "id": 25,
+        "model": "911 Dakar",
+        "brand": "Porsche",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpaU_zOxdbYifJebN8Fxn7zOiNowFs8Q3nw&s.jpg"
+    },
+    {
+        "id": 26,
+        "model": "Taycan Turbo S",
+        "brand": "Porsche",
+        "image": "https://vehicle-images.dealerinspire.com/4fed-11000359/thumbnails/large/WP0AC2Y19RSA52381/41a1dd6bff9b54c17e41a03addc4fbe2.jpg"
+    },
+    {
+        "id": 27,
+        "model": "Taycan Turbo Cross Turismo",
+        "brand": "Porsche",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQK2Ya04HZOsIEPTqBTm6IbAX0Z1Pra0V1HcoZVZjijPDN_Glb5TdCyUEio4cgfMdIrss&usqp=CAU.jpg"
+    },
+    {
+        "id": 28,
+        "model": "Panamera 4 E-Hybrid",
+        "brand": "Porsche",
+        "image": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U0%25z8rMHIspMBvMZq6G5OtgSv31nBJaA4qh4NSEGewirQ91wRmWBi2Ow7gVdc0LdUlhDfzEvspAnPqRSiZJyNDa9ctBvonLDf8dXFXiLPED6u6ytN9nReRjVo4y7z9V6F%25vUqJtspAnPT0MiZJyNKA9ctBvoqKLf8dXFOcvPED6uTDWN9nRe7cqo4y7zVpkF%25m8cAzGs8bGVCRNQ2c3eUNSWa9vJA4qF.jpg"
+    },
+    {
+        "id": 29,
+        "model": "Macan Turbo Electric",
+        "brand": "Porsche",
+        "image": "https://cdn.motor1.com/images/mgl/jl6JEy/s3/porsche-macan-2024.jpg"
+    },
+    {
+        "id": 30,
+        "model": "Macan GTS",
+        "brand": "Porsche",
+        "image": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_c457bb8046c1457c9c2bfc4e3dad4371.jpg"
+    },
+    {
+        "id": 31,
+        "model": "Cayenne S",
+        "brand": "Porsche",
+        "image": "https://files.porsche.com/filestore/image/multimedia/none/e3-2nd-cayenne-s-modelimage-sideshot/model/215f09d2-8864-11ee-810c-005056bbdc38/porsche-model.png"
+    },
+    {
+        "id": 32,
+        "model": "Cruze 1.8",
+        "brand": "Chevrolet",
+        "image": "https://revistacarro.com.br/wp-content/uploads/2018/05/image.gen_20.png"
+    },
+    {
+        "id": 33,
+        "model": "Cruze RS",
+        "brand": "Chevrolet",
+        "image": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_f42f2af1ce37480b829cd60208f9f4a5.jpg"
+    },
+    {
+        "id": 34,
+        "model": "S10",
+        "brand": "Chevrolet",
+        "image": "https://www.chevrolet.com.ar/content/dam/chevrolet/sa/argentina/espanol/index/pickups-and-trucks/2021-s10-cd-hc/01-images/refresh/colorizer/01-images/chevrolet-s10-high-country-branco-summit.png?imwidth=960"
+    },
+    {
+        "id": 35,
+        "model": "Onix",
+        "brand": "Chevrolet",
+        "image": "https://www.chevrolet.com.ar/content/dam/chevrolet/sa/argentina/espanol/index/cars/2020-onix-premier/mov/14-images/onix-turbo-hb.png?imwidth=960"
+    },
+    {
+        "id": 36,
+        "model": "Tracker",
+        "brand": "Chevrolet",
+        "image": "https://assets.static-gm.com/Assets/cf8fe345-bea6-492e-a6f8-c0e8af1a0e48/0070d1b9-b840-4897-babe-68b86275ae83/v-1718851833/Mobile.jpg"
+    },
+    {
+        "id": 37,
+        "model": "Joy Plus",
+        "brand": "Chevrolet",
+        "image": "https://www.planesdeautos.com.ar/images/modelos/joy-plus/joy-plus.jpg"
+    },
+    {
+        "id": 38,
+        "model": "Equinox 2025",
+        "brand": "Chevrolet",
+        "image": "https://cdn.motor1.com/images/mgl/pb4N9W/s1/2025-chevrolet-equinox.jpg"
+    },
+    {
+        "id": 39,
+        "model": "Spin",
+        "brand": "Chevrolet",
+        "image": "https://fotos.perfil.com/2024/01/18/chevrolet-spin-1740382.jpg"
+    },
+    {
+        "id": 40,
+        "model": "Montana",
+        "brand": "Chevrolet",
+        "image": "https://www.chevrolet.com.ar/bypass/gmccontenthub/chevrolet/gm-ar/colorizer_nueva_montana/images/colorizer/shark-skin-silver-montana-3-4-delantero.png"
+    },
+    {
+        "id": 41,
+        "model": "Silverado",
+        "brand": "Chevrolet",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRurLZc1wFHYLi3IZs0ZScYgYaDOlcKMCSmIA&s.jpg"
+    },
+    {
+        "id": 42,
+        "model": "Tonale",
+        "brand": "Alfa Romeo",
+        "image": "https://www.alfaromeo.es/content/dam/alfa/cross/tonale-mp/white-label-update/figurines/AR-TONALE-MY24-580X344-TRIM-HP-SPRINT.png"
+    },
+    {
+        "id": 43,
+        "model": "Stelvio Quadrifoglio",
+        "brand": "Alfa Romeo",
+        "image": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_3b324cb695a947bbbe967883917456dc.jpg"
+    },
+    {
+        "id": 44,
+        "model": "Giulietta",
+        "brand": "Alfa Romeo",
+        "image": "https://www.diariomotor.com/imagenes/2023/01/alfa-romeo-giulietta-teaser-3-63bda391bfe21.jpg"
+    },
+    {
+        "id": 45,
+        "model": "Giulia GTA",
+        "brand": "Alfa Romeo",
+        "image": "https://img.remediosdigitales.com/df1931/alfa-romeo-giulia-gta-1/450_1000.jpg"
+    },
+    {
+        "id": 46,
+        "model": "Giulia Quadrifoglio",
+        "brand": "Alfa Romeo",
+        "image": "https://www.alfaromeo.es/content/dam/alfa/cross/giulia-quadrifoglio/white-label-update/trim/AR-ModelPage-White-Trim-Giulia-QV-RED.png"
+    },
+    {
+        "id": 47,
+        "model": "Junior",
+        "brand": "Alfa Romeo",
+        "image": "https://cdn.motor1.com/images/mgl/9mQpMy/s1/alfa-romeo-milano.jpg"
+    },
+    {
+        "id": 48,
+        "model": "33 Stradele",
+        "brand": "Alfa Romeo",
+        "image": "https://www.autoweb.com.ar/wp-content/uploads/2023/08/alfa_romeo_33_stradale_96_03f601160f410b51.jpg"
+    },
+    {
+        "id": 49,
+        "model": "33 Stradele 1967",
+        "brand": "Alfa Romeo",
+        "image": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2022/06/increible-historia-alfa-romeo-33-stradale-2725001.jpg?tf=3840x"
+    },
+    {
+        "id": 50,
+        "model": "8C",
+        "brand": "Alfa Romeo",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBC06ZNNrb4xbV9C2BQU6ljdVZyvWx3ptjOw&s.jpg"
+    }
+]
